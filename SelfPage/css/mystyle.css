@@ -1,0 +1,77 @@
+
+#homepage-self-intro
+{
+	font-size: 16pt;
+	padding-left: 1em;
+	padding-right: 1em;
+	
+}
+.read-more
+{
+	color:bule;
+	float:right;
+}
+
+.profile-pic
+{
+	float:right;
+}
+
+#about-me-education
+{
+	float:left;
+}
+
+h1, h2, h3 {
+	margin: 0em;
+	padding: 0em;
+	color: #191919;
+}
+
+
+#pbox1 h1{
+	font-size:40px;
+	font-family:Arial;
+	text-transform: capitalize;
+	font-weight:bold;
+	text-align:center;
+	margin-left:0em;
+	margin-bottom: 20px;
+}
+
+#pbox1 h2{
+	font-size:25px;
+	font-family:Arial;
+	margin-bottom: 10px;
+}
+
+.iframecenter{
+	width:1100px;
+	margin-top:10px;
+	margin-bottom:20px;
+	text-align: center;
+}
+
+.current_page_item{
+	background-color: #1010ff;
+	font-weight:bold;
+	font-color: #111111;
+}
+li {
+	margin-bottom:60px;
+}
+
+.portfolio_project{
+	margin-bottom:20px;
+	margin-top:20px;
+}
+
+.video_disc{
+	margin-bottom:10px;
+	font-size:14px;
+}
+
+.video_title{
+	margin-top:10px;
+	font-size:20px;
+}
