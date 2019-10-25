@@ -39,6 +39,18 @@
 		margin-right: 10px; 
 		margin-bottom: 10px;
 	}
+	.printer {
+		width: 300px;
+		float: left;
+		margin-right: 10px; 
+		margin-bottom: 10px;
+	}
+	.dynamicimage {
+		width: 160px;
+		float: left;
+		margin-right: 10px; 
+		margin-bottom: 10px;
+	}
 
 	.paperdivs {
 		margin-top: 20px;
